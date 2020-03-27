@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Teszt oldal
+title: SuliWebEx
 email: your-email@domain.com
 author: Marci és Jenci
 description: > # this means to ignore newlines until "baseurl:"
