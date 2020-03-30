@@ -8,17 +8,22 @@
       children:
         - title: Android
           url: "install#android"
-    - title: "Webex használati útmutató (pdf) – tanárok számára, ill. diákok számára"
-      url: "docs/getting-started"
-    - title: "Webináriumok felvétele (pár perces videók) – pedagógusokra szabottan"
-      url: "docs/getting-started"
+    - title: "Webex használati útmutató"
+      url: "/"
+      children:
+        - title: Tanár
+          url: "/#tanar"
+        - title: Diák
+          url: "/#diak"
+    - title: "Webináriumok"
+      url: "/"
     - title: "Kapcsolat"
-      url: "docs/getting-started"
+      url: "/"
     - title: "Gyakran ismételt kérdések"
-      url: "docs/getting-started"
+      url: "/"
     - title: "Hasznos linkek"
-      url: "docs/getting-started"
+      url: "linkek"
     - title: "Fórum"
-      url: "docs/getting-started"
+      url: "/"
     - title: "Impresszum"
-      url: "docs/getting-started"
+      url: "/"
