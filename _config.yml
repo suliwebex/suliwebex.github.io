@@ -26,20 +26,15 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://marciteszt.github.io/" # the base hostname & protocol for your site
+url: "https://suliwebex.github.io/" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/marciteszt/marciteszt.github.io"
+repo: "https://github.com/suliwebex/suliwebex.github.io"
 github_user: "humarci"
-github_repo: "marciteszt.github.io"
-
-# Optional
-twitter: vsoch
-linkedin: vsochat
-dockerhub: vanessa
+github_repo: "suliwebex.github.io"
 
 # Should there be feedback buttons at the bottom of pages?
-feedback: true
+feedback: false
 
 # Link to a privacy policy in footer, uncomment and define if wanted
 # privacy: https://domain.com/privacy
@@ -65,7 +60,6 @@ themeColor: red # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
-markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
 # Collections
@@ -78,7 +72,7 @@ collections:
 defaults:
   - scope:
       path: "_docs"
-      type: "docs"
+      type: "pages"
     values:
       layout: page
   -
