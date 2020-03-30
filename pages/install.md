@@ -101,9 +101,9 @@ Javasolt használat: Annak érdekében, hogy az alkalmazás Wi-Fi kapcsolat hiá
 
     ![Google Play](/assets/img/install/androidusemobiledata.jpg)
 
-#### Kérdések és válaszok
+### Kérdések és válaszok
 
-### Hogyan tudom az Android-verziószámát ellenőrizni?
+#### Hogyan tudom az Android-verziószámát ellenőrizni?
 
 1. Nyissa meg a telefon Beállítások alkalmazását.
 2. Koppintson alul a Rendszer Majd Speciális Majd Rendszerfrissítés lehetőségre.
