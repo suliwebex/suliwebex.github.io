@@ -1,23 +1,24 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
-      children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"
-    - title: "About"
+    - title: "Program leírása"
       url: "about"
-    - title: "News"
-      url: "news"
+    - title: "Telepítés"
+      url: "install" 
+      children:
+        - title: Android
+          url: "install#android"
+    - title: "Webex használati útmutató (pdf) – tanárok számára, ill. diákok számára"
+      url: "docs/getting-started"
+    - title: "Webináriumok felvétele (pár perces videók) – pedagógusokra szabottan"
+      url: "docs/getting-started"
+    - title: "Kapcsolat"
+      url: "docs/getting-started"
+    - title: "Gyakran ismételt kérdések"
+      url: "docs/getting-started"
+    - title: "Hasznos linkek"
+      url: "docs/getting-started"
+    - title: "Fórum"
+      url: "docs/getting-started"
+    - title: "Impresszum"
+      url: "docs/getting-started"
