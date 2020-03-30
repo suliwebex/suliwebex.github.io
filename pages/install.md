@@ -56,12 +56,13 @@ Figyelem: Video alapú konferencia esetén a forgalmazott adatmennyiség jelent�
 
 Fontos! Az alábbi lépéseket csak egyszer, az első alkalmazás indítás után kell megtenni:
 
-1.) Az “OK” gomb megnyomásával fogadja el az alkalmazás helymeghatározásról szóló információs panelt:
+1. Az “OK” gomb megnyomásával fogadja el az alkalmazás helymeghatározásról szóló információs panelt:
+    ![Google Play](/assets/img/install/playlocationquestion.jpg)
 
+2. Majd fogadja el a Cisco Webex Meetings használati feltételeit az “Accept” (elfogadás) gomb megnyomásával:
+    ![Google Play](/assets/img/install/playacceptprivacy.jpg)
 
-2.) Majd fogadja el a Cisco Webex Meetings használati feltételeit az “Accept” (elfogadás) gomb megnyomásával:
-
-3.) A felugró információs panelen az “Engedélyezés” gomb megnyomásával járuljon hozzá, hogy az alkalmazás az eszköz alábbi funkcióit használhassa:
+3. A felugró információs panelen az “Engedélyezés” gomb megnyomásával járuljon hozzá, hogy az alkalmazás az eszköz alábbi funkcióit használhassa:
 
 * Hangfelvétel készítése
 * Hívás indítás és kezelés
@@ -69,52 +70,50 @@ Fontos! Az alábbi lépéseket csak egyszer, az első alkalmazás indítás utá
 * Hozzáférés a névjegyekhez
 * Hozzáférés az eszköz helyadataihoz
 
- 
+    ![Google Play](/assets/img/install/playrightssound.jpg)
+    ![Google Play](/assets/img/install/playrightscall.jpg)
+    ![Google Play](/assets/img/install/playrightsvideo.jpg)
+    ![Google Play](/assets/img/install/playrightscontacts.jpg)
+    ![Google Play](/assets/img/install/playrightsgps.jpg)
 
+## Alkalmazás opcionális beállításai
 
+Telepítés után az alkalmazás azonnal használható az alap beállításokkal, azonban az alábbi opcionális beállításokat végezheti el:
 
-
-
-
-Alkalmazás opcionális beállításai
-
-	Telepítés után az alkalmazás azonnal használható az alap beállításokkal, azonban az alábbi opcionális beállításokat végezheti el:
-
-Beállítások menü elérése
+### Beállítások menü elérése
 
 A beállítások menü (Settings), az alkalmazás kezdő képernyőjén, a jobb felső sarokban található három pontra nyomva érhető el:
 
+    ![Google Play](/assets/img/install/androidaccesssettings.jpg)
 
+### Adatforgalom csökkentése
 
-
-
-
-
-
-
-
-
-Adatforgalom csökkentése
 Javasolt használat: Amennyiben korlátozott adatforgalmi kerettel rendelkezik, érdemes az alábbi funkciót kikapcsolni.
-    1.) A Settings menüben válassza az “Audio & video” opciót: 
 
-    2.) Görgessen le “High-definition video” (nagy felbontású videó) szekcióhoz és kapcsolja ki: 
+1. A Settings menüben válassza az “Audio & video” opciót:
 
+    ![Google Play](/assets/img/install/androidsettingsselectaudiovideo.jpg)
 
-Mobilhálózati kapcsolat tiltása
-	
+2. Görgessen le “High-definition video” (nagy felbontású videó) szekcióhoz és kapcsolja ki:
+
+    ![Google Play](/assets/img/install/androidvideohighdefinition.jpg)
+
+### Mobilhálózati kapcsolat tiltása
+
 Javasolt használat: Annak érdekében, hogy az alkalmazás Wi-Fi kapcsolat hiányában automatikusan ne tudja a mobiladatot használni, az alábbi funkciót kapcsolja ki:
 
-    1.) A Settings menüben válassza az “Audio & video” opciót:  
+1. A Settings menüben válassza az “Audio & video” opciót:  
 
+    ![Google Play](/assets/img/install/androidsettingsselectaudiovideo.jpg)
 
-    2.) Görgessen le a “Use mobile data” (mobil adat használata) szekcióhoz és kapcsolja ki: 
+2. Görgessen le a “Use mobile data” (mobil adat használata) szekcióhoz és kapcsolja ki:
 
+    ![Google Play](/assets/img/install/androidusemobiledata.jpg)
 
+## Kérdések és válaszok
 
-Kérdések és válaszok
-Hogyan tudom az Android-verziószámát ellenőrizni?
-    1.) Nyissa meg a telefon Beállítások alkalmazását.
-    2.) Koppintson alul a Rendszer Majd Speciális Majd Rendszerfrissítés lehetőségre.
-    3.) Ellenőrizze az „Android-verzió” és „Biztonsági javítókészlet szintje” mezőket.
+### Hogyan tudom az Android-verziószámát ellenőrizni?
 
+1. Nyissa meg a telefon Beállítások alkalmazását.
+2. Koppintson alul a Rendszer Majd Speciális Majd Rendszerfrissítés lehetőségre.
+3. Ellenőrizze az „Android-verzió” és „Biztonsági javítókészlet szintje” mezőket.
