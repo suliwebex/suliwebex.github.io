@@ -8,7 +8,6 @@
       children:
         - title: Android
           url: "install#android"
-
     - title: "Webex használati útmutató (pdf) – tanárok számára, ill. diákok számára"
       url: "docs/getting-started"
     - title: "Webináriumok felvétele (pár perces videók) – pedagógusokra szabottan"
