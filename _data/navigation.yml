@@ -1,4 +1,6 @@
-- title: About
-  url: about
-- title: Documentation
-  url: docs
+- title: Telepítés
+  url: install
+- title: Impresszum
+  url: impresszum
+# - title: Documentation
+#   url: docs
