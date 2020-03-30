@@ -1,9 +1,8 @@
 ---
+layout: page
 title: Telepítés
 permalink: /install/
 ---
-
-# Telepítés
 
 ## Android
 
