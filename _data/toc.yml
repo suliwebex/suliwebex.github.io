@@ -8,6 +8,10 @@
       children:
         - title: Android
           url: "install#android"
+        - title: Linux
+          url: "install#linux"
+        - title: MacOS
+          url: "install#macos"
     - title: "Webex használati útmutató"
       url: "/"
       children:
