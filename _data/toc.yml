@@ -4,14 +4,13 @@
     - title: "Program leírása"
       url: "about"
     - title: "Telepítés"
-      url: "install" 
       children:
         - title: Android
-          url: "install#android"
+          url: "install/android"
         - title: Linux
-          url: "install#linux"
+          url: "install/linux"
         - title: MacOS
-          url: "install#macos"
+          url: "install/macos"
     - title: "Webex használati útmutató"
       url: "/"
       children:
