@@ -4,6 +4,4 @@ title: SuliWebex
 permalink: /
 ---
 
-## SuliWebex
-
-Hamarosan...
+![Fejlesztés alatt](/assets/img/fejlesztes-alatt.png)
