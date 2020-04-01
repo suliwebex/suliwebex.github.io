@@ -1,8 +1,8 @@
 - title: Dokumentáció
-  url: docs
+  url: /
   links:
     - title: "Program leírása"
-      url: "about"
+      url: "/"
     - title: "Telepítés"
       children:
         - title: Android
@@ -12,21 +12,21 @@
         - title: MacOS
           url: "install/macos"
     - title: "Webex használati útmutató"
-      url: "/"
+      url: "underconstruction"
       children:
         - title: Tanár
           url: "/#tanar"
         - title: Diák
           url: "/#diak"
     - title: "Webináriumok"
-      url: "/"
+      url: "underconstruction"
     - title: "Kapcsolat"
-      url: "/"
+      url: "underconstruction"
     - title: "Gyakran ismételt kérdések"
-      url: "/"
+      url: "underconstruction"
     - title: "Hasznos linkek"
       url: "linkek"
     - title: "Fórum"
-      url: "/"
+      url: "underconstruction"
     - title: "Impresszum"
-      url: "/"
+      url: "underconstruction"
