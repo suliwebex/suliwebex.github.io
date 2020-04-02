@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teljes irtuális osztályterem
+title: Teljes virtuális osztályterem
 permalink: /virtualisosztalyterem
 ---
 
