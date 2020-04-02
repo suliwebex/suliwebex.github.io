@@ -1,8 +1,13 @@
-- title: Dokumentáció
+- title: CiscoWebex
   url: /
   links:
     - title: "Program leírása"
-      url: "/"
+      url: "index"
+      children:
+        - title: Támogatás
+          url: "tamogatas"
+        - title: Adatvédelem és biztonság
+          url: "adatvedelem"
     - title: "Telepítés"
       children:
         - title: Android
@@ -15,13 +20,13 @@
       url: "underconstruction"
       children:
         - title: Tanár
-          url: "/#tanar"
+          url: "underconstruction"
         - title: Diák
-          url: "/#diak"
+          url: "underconstruction"
     - title: "Webináriumok"
       url: "underconstruction"
     - title: "Kapcsolat"
-      url: "underconstruction"
+      url: "kapcsolat"
     - title: "Gyakran ismételt kérdések"
       url: "underconstruction"
     - title: "Hasznos linkek"
