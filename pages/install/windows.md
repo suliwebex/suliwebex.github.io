@@ -4,6 +4,10 @@ title: Telepítés Windowsra
 permalink: /install/windows
 ---
 
+Windows 7 [![windows 7 pdf](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/win7.pdf)
+
+Windows 10 [![windows 10 pdf](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/win10.pdf)
+
 ## Webes felület
 
 Letöltés [Cisco Webex](http://www.cisco.com)

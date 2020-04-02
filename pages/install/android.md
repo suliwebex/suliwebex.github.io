@@ -4,9 +4,7 @@ title: Telepítés Androidra
 permalink: /install/android
 ---
 
-## Android
-
-[pdf](/assets/install/android.pdf)
+[![alt text](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/android.pdf)
 
 ### Telepítés előtti fontos tudnivalók
 

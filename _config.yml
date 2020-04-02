@@ -75,15 +75,17 @@ defaults:
       type: "pages"
     values:
       layout: page
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: "posts"
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
