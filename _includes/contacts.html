@@ -2,19 +2,17 @@
 
 {% for contact in site.data.contacts %}
 
-  <div class="col-md-4" markdown="1">
-   <div class="form-group">
-        <img src="/assets/img/contact/{{ contact.picture }}" alt="Picture of {{ contact.name }}"
-         height="200" width="200" >
-        <br>
-        <b style="color: blue;">{{ contact.name }}</b>
-        <br>
-        <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
-        <br>
-        {{ contact.position }}
-        <br>
-        {{ contact.company }}
-    </div>
+<div class="col-md-4" markdown="1">
+  <img src="/assets/img/contact/{{ contact.picture }}" alt="Picture of {{ contact.name }}"
+    style="max-width: 200px;"  >
+  <br>
+  <b style="color: blue;">{{ contact.name }}</b>
+  <br>
+  <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+  <br>
+  {{ contact.position }}
+  <br>
+  {{ contact.company }}
 </div>
 
 {% endfor %}

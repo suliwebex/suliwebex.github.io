@@ -4,8 +4,6 @@ title: Telepítés linuxra
 permalink: /install/linux
 ---
 
-## Linux
-
 ### Előkészületek és ellenőrzések a WEBEX használata előtt
 
 * hálózati kapcsolat ellenőrzése
