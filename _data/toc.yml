@@ -4,6 +4,8 @@
     - title: "Program leírása"
       url: "index"
       children:
+        - title: Virtuális osztályterem
+          url: "virtualisosztalyterem"
         - title: Támogatás
           url: "tamogatas"
         - title: Adatvédelem és biztonság
@@ -18,20 +20,20 @@
           url: "install/macos"
     - title: "Webex használati útmutató"
       url: "underconstruction"
-      children:
-        - title: Tanár
-          url: "underconstruction"
-        - title: Diák
-          url: "underconstruction"
-    - title: "Webináriumok"
-      url: "underconstruction"
+      # children:
+      #   - title: Tanár
+      #     url: "underconstruction"
+      #   - title: Diák
+      #     url: "underconstruction"
+    # - title: "Webináriumok"
+    #   url: "underconstruction"
     - title: "Kapcsolat"
       url: "kapcsolat"
     - title: "Gyakran ismételt kérdések"
       url: "underconstruction"
     - title: "Hasznos linkek"
       url: "linkek"
-    - title: "Fórum"
-      url: "underconstruction"
-    - title: "Impresszum"
-      url: "underconstruction"
+    # - title: "Fórum"
+    #   url: "underconstruction"
+    # - title: "Impresszum"
+    #   url: "underconstruction"
