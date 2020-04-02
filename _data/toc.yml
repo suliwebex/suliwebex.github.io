@@ -18,6 +18,8 @@
           url: "install/linux"
         - title: MacOS
           url: "install/macos"
+        - title: Windows
+          url: "install/windows"
     - title: "Webex használati útmutató 📘"
       url: "underconstruction"
     - title: "Videós útmutatók 📹"
