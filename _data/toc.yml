@@ -1,16 +1,16 @@
 - title: CiscoWebex
   url: /
   links:
-    - title: "Program leírása"
+    - title: "Program leírása 📗"
       url: "index"
       children:
-        - title: Virtuális osztályterem
+        - title: "Virtuális osztályterem"
           url: "virtualisosztalyterem"
         - title: Támogatás
           url: "tamogatas"
         - title: Adatvédelem és biztonság
           url: "adatvedelem"
-    - title: "Telepítés"
+    - title: "Telepítés 🛠️"
       children:
         - title: Android
           url: "install/android"
@@ -18,7 +18,9 @@
           url: "install/linux"
         - title: MacOS
           url: "install/macos"
-    - title: "Webex használati útmutató"
+    - title: "Webex használati útmutató 📘"
+      url: "underconstruction"
+    - title: "Videós útmutatók 📹"
       url: "underconstruction"
       # children:
       #   - title: Tanár
@@ -27,11 +29,11 @@
       #     url: "underconstruction"
     # - title: "Webináriumok"
     #   url: "underconstruction"
-    - title: "Kapcsolat"
+    - title: "Kapcsolat 📧"
       url: "kapcsolat"
-    - title: "Gyakran ismételt kérdések"
+    - title: "Gyakran ismételt kérdések ❓"
       url: "underconstruction"
-    - title: "Hasznos linkek"
+    - title: "Hasznos linkek 🔗"
       url: "linkek"
     # - title: "Fórum"
     #   url: "underconstruction"
