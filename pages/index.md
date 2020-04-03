@@ -3,9 +3,9 @@ layout: page
 title: 
 permalink: /index
 ---
-Az IBM és a Cisco együttműködésének részekénta két cég ingyenesen biztosítjaa magyarországi iskolák számára a Cisco Webex együttműködési platformot, amely egyszerű és intuitív funkciókat kínál adigitális oktatáshoz.A Webex bevezetéséhez a támogatást az IBM és a Cisco önkéntesei biztosítják, a kezdeményezés oktatási szakmai partnere a HTTP Alapítvány.
+Az IBM és a Cisco együttműködésének részeként a két cég ingyenesen biztosítjaa magyarországi iskolák számára a Cisco Webex együttműködési platformot, amely egyszerű és intuitív funkciókat kínál adigitális oktatáshoz. A Webex bevezetéséhez a támogatást az IBM és a Cisco önkéntesei biztosítják, a kezdeményezés oktatási szakmai partnere a HTTP Alapítvány.
 
-A Cisco Webex valós időben köti össze a tanárokat és a diákokat. Az élő videokapcsolat nemcsak a tananyag jobb megértését szolgálja, de segít összetartani az osztályközösségeket is. Annak érdekében, hogy a távoktatás minél több iskolában, rövid idő alatt el tudjon indulni, hogy a tanárok és osztályuk az eszköz adta lehetőségeket minél hatékonyabban ki tudják használni akét cég majd 400 magyarországi önkéntes szakembere ad támogatást.
+A Cisco Webex valós időben köti össze a tanárokat és a diákokat. Az élő videokapcsolat nemcsak a tananyag jobb megértését szolgálja, de segít összetartani az osztályközösségeket is. Annak érdekében, hogy a távoktatás minél több iskolában, rövid idő alatt el tudjon indulni, hogy a tanárok és osztályuk az eszköz adta lehetőségeket minél hatékonyabban ki tudják használni a két cég majd 400 magyarországi önkéntes szakembere ad támogatást.
 
 <div class="row">
   <div class="col-md-6" markdown="1">
