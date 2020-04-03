@@ -8,200 +8,331 @@ Windows 7 [![windows 7 pdf](/assets/img/16px-PDF_file_icon.svg.png)](/assets/ins
 
 Windows 10 [![windows 10 pdf](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/win10.pdf)
 
-## Webes felület
+## Ellenőrzések a Webex Meetings használata előtt
+        
+###  Hálózati kapcsolat ellenőrzése
 
-Letöltés [Cisco Webex](http://www.cisco.com)
+* Ha a hálózat ikonja nem látszik a tálcán, a rejtett ikonok megjelenítése gombbal előhozhatjuk.
 
-Regisztráció e-mail alapján
+<div style="text-align: right"> A bal egérgombot nyomva tartva a tálcára húzhatjuk.</div>
 
-Webex Meetings
+![](/assets/img/install/winchecknet1.png)
+![](/assets/img/install/winchecknet2.png)
 
-![Webex Meetings](/assets/img/install/webmeetingsteamspage.png)
+* Ha a képen látható ikonnal találkozunk, nincs kapcsolat.
 
-Sign in
+![](/assets/img/install/winchecknet3.png)
 
-![Sign in](/assets/img/install/websignin.png)
+* Kábeles hálózat esetében
 
-Bent vagyunk a webes felületen:
+Ha az alábbi ikont látjuk, vezetékes kapcsolatunk van.
 
-![After log in](/assets/img/install/webafterlogin.png)
+![](/assets/img/install/winchecknet4.png)
 
-## Webex asztali applikáció letöltése
+* Wi-Fi használat esetében
 
-Download
+Ha az alábbi ikon látható a tálcán, Wi-Fi kapcsolatunk van.
 
-![Download](/assets/img/install/webdownload.png)
+![](/assets/img/install/winchecknet5.png)
 
-Save file
+Wi-Fi bekapcsolása:
 
-![Save file](/assets/img/install/websavefile.png)
+![](/assets/img/install/winchecknet6.png)
 
+Bekapcsolás után láthatóvá válnak az elérhető hálózatok.
 
-![Install step 1](/assets/img/install/wininstall1.png)
-![Install step 2](/assets/img/install/wininstall2.png)
-![Install step 3](/assets/img/install/wininstall3.png)
+### Hálózati sebesség ellenőrzése: [speedtest](https://www.speedtest.net/)
 
-## Asztali Webex applikáció elindítása
+### Böngésző (Firefox, Chrome) verziók ellenőrzése
 
-__Start menü:__ webex
+* Firefox
 
-![Windows start menu](/assets/img/install/winstartmenuwebex.png)
+![](/assets/img/install/winfirefox1.png)
 
-Megkaptuk a "Webex Meetings" menüt:
+![](/assets/img/install/winfirefox2.png)
 
-![Webex meetings menu](/assets/img/install/winwebexmeetingsmenu.png)
+![](/assets/img/install/winfirefox3.png)
 
-## Preference - tulajdonságok
+![](/assets/img/install/winfirefox4.png)
 
-![Webex preferences](/assets/img/install/winwebexpreferences.png)
+* Chrome
 
-## My Personal Room
+![](/assets/img/install/winchrome1.png)
 
-__Mi látható:__
-* __My Personal Room:__ Saját szobám linkje
-* __Personal Room number:__ 9 számjegyből álló azonosító. Telefonos beléptetésre szolgál pl: vezetékes
-* __Host PIN:__ 4 számjegy
+![](/assets/img/install/winchrome2.png)
 
-![Webex preferences personal room](/assets/img/install/winprefmypersonalroom.png)
+![](/assets/img/install/winchrome3.png)
 
+### Ha a hangszóró ikonja nem látszik a tálcán, a rejtett ikonok megjelenítése gombbal előhozhatjuk.
 
-## Meeting elindítása
+![](/assets/img/install/winspeakericon.png)
 
-Start a Meeting
+A bal egérgombot nyomva tartva azt a tálcára húzhatjuk.
 
-![Webex start a meeting](/assets/img/install/winstartameeting.png)
+### Ha kis “x”-et látunk a hangszóró ikonja mellett, akkor az lenémított állapotban van.
 
-Start Meeting - Megbeszélés indítása
+![](/assets/img/install/winspeakeroff.png)
 
-![Webex start meeting](/assets/img/install/winstartmeeting.png)
+Bal gombbal az ikonra kattintás után, a megjelenő csúszkával beállíthatjuk a hangerőt, valamint némíthatunk és fel is oldhatjuk azt. 
 
-## Participant – Résztvevőknek a következő lehetőségek állnak a rendelkezésünkre
+### Bluetooth fej/fülhallgató ellenőrzése, csatlakoztatása
 
-* Mute All kiválasztásával mindenkit lenémítunk
-* Anyone Can Share - bárki megoszthatja a képernyőt
-* Assign Privileges - jogosultságok megadása
-* Entry and Exit Tone - ha valaki csatlakozik a megbeszéléshez hanggal jelzi a webex
-* Stb...
+Mielőtt a használatot elkezdjük, ellenőrizzük, hogy a fej/fülhallgatót akkumulátora fel van-e töltve.
 
-![Participant](/assets/img/install/winparticipants.png)
+Ha csatlakoztatást el szeretnénk végezni, állítsuk a fej/fülhallgatót kapcsolat felvétel üzemmódba. Ez eszközönként változik, a használati útmutató tartalmazza, hogyan kell beállítani.
 
-## Ikonok funkciója
+Ha a fej/fülhallgató már használatban van, ellenőrizzük mihez kapcsolódik. Ha képes több eszközhöz is egy időben csatlakozni, akkor a Webex használatkor ajánlott csak a Webex-et futtató eszköz kapcsolatát megtartani.
 
-* Mikrofon -ki és be kapcsolása
-* Kamera   -ki és be kapcsolása
-* Share content -képernyőmegosztás a csoport többi tagjával
-* Recorder -megbeszélés rögzítése
-* Participants -résztvevők
-* Chat
-* More options -részletesebb lehetőségek
-* End meeting -megbeszélés bezárása
+__Start menü__
 
-![Waiting for others](/assets/img/install/winwaitingforothers.png)
+__“Gépház”__
 
-## Képernyőmegosztás ikonja
+A Gépházban válasszuk ki az “Eszközök” menüpontot.
 
-Share content-képernyőmegosztás a csoport többi tagjával:
+![](/assets/img/install/wingephaz1.png)
 
-Itt kiválasztható, hogy melyik képernyőt vagy bármi egyébb mást szeretnék megosztani
+![](/assets/img/install/wingephaz2.png)
 
-![Share content](/assets/img/install/winsharecontent.png)
+Ha a Bluetooth kikapcsolt állapotban van, kapcsoljuk be (“__Bluetooth__” -> __Be__)
 
-## Recorder - megbeszélés rögzítése ikonja
+Ezután kattintsunk a “__Bluetooth- vagy más eszköz beállítás__” gombra.
 
-Recorder- megbeszélés rögzítése /felhőbe vagy saját gépre lehet lementeni az adott beszélgetést/
+![](/assets/img/install/winbluetooth1.png)
 
-![Recorder](/assets/img/install/winrecorder.png)
+A megjelenő “__Új eszköz beállítása__” menüben válasszük ki a “__Bluetooth__”-t.
 
-A "Record" gombra kattintva Cisco Webex Meeting jelzi nekünk hanggal *this meeting is being recorded* hangzik el, és a képernyő jobb felső sarkán is megjelenik egy kis ikon hogy, a meeting rögzítve van:
+Majd a saját fej/fülhallgatónkat.
 
-![Recorded](/assets/img/install/winrecorded.png)
+![](/assets/img/install/winbluetooth2.png)
 
-## Participants -résztvevők ikonja
+![](/assets/img/install/winbluetooth3.png)
 
-Jobb oldalon láthato hogy,kik vesznek részt a megbeszélésen:
+![](/assets/img/install/winbluetooth4.png)
 
-![Participants](/assets/img/install/winparticipantsiconpage.png)
+Az “__Eszköz használatra kész__“ felirat jelzi, ha sikeres volt a csatlakoztatás.
 
-## Chat ikon
+### Jobb egérgombbal a hangszóró ikonra kattintva elérhetővé válik a “Hangbeállítások megnyitása” gomb.
 
-* Jobb oldalon láthatjuk a "chat" ablakot
-* A résztvevők ide küldhetnek egymásnak üzeneteket
+![](/assets/img/install/winhangbeallitasok1.png)
 
-![Participants](/assets/img/install/winparticipantsiconpage.png)
+*Leellenőrizhetjük a “__Kimenet__”-nél (“Kimeneti eszköz kiválasztása”) a beállított eszközt.
 
-## More options -részletesebb lehetőségek
+A lenyíló menüből választhatunk másikat (amennyiben rendelkezésre áll).
 
-* Lock meeting - megbeszélés lezárása, mostantól senki nem léphet be.
-* Invite and remind -meghívás és emlékeztetés
-* Copy meeting link -megbebeszélési link másolása. Vágólapra is helyezi azzonal.
+![](/assets/img/install/winhangbeallitasok2.png)
 
-![Participants](/assets/img/install/winmoreoptions.png)
+* Lejjebb görgetve megtaláljuk a “__Bemenet__”-nél (“__Beviteli eszköz kiválasztása__”) a beállított mikrofont.
 
-## Audio connection -hangerő, kamera stb beállítása
+A lenyíló menüből választhatunk másikat (amennyiben rendelkezésre áll).
 
-* Speaker - hangszoró beállítása
-* Microphone - mikrofon beállítása
-* Camera - kamera beállítása
+![](/assets/img/install/winhangbeallitasok3.png)
 
-![Participants](/assets/img/install/winaudiosettings.png)
+* Továb görgetve megtaláljuk a __“Speciális hang beállítások__”-at.
 
-## Notes -jegyzetek
+“__Hang vezérlőpultja__” gombra kattintva további lehetőségekhez jutunk.
 
-Notes - Jegyzetek. Saját magunknak készíthetünk jegyzeteket. Pl:
+![](/assets/img/install/winhangbeallitasok4.png)
 
-![Notes](/assets/img/install/winnotes.png)
+“__Lejátszás__” fülben, zöld kerettel pipával jelölve láthatjuk az alapértelmezett eszközt.
 
-## Polling -szavazás, teszt elindítása
+“__Felvétel__” fülben, zöld kerettel pipával jelölve láthatjuk az alapértelmezett eszközt.
 
-Polling - szavazás, teszt
+Ha ezen változtatni akarunk, jelöljük ki a másik eszközt és kattintsunk az “__Alapértelmezett__” gombra, majd a job alsó sarokban az “__Alkalmaz__”-ra.
 
-![Polling](/assets/img/install/winpolling.png)
+![](/assets/img/install/winhangbeallitasok5.png)
 
-### Teszt válaszlehetőségeinek beállításai
+![](/assets/img/install/winhangbeallitasok6.png)
 
-* Multiple choice -Multiple Answer
-* Multiple choice -Single Answer
-* Short answer
+### Kamera és mikrofon használat engedélyezése
 
+__Start menü__
 
-![Polling Types](/assets/img/install/winpollingtypes.png)
+__“Gépház”__
 
-### Options...
+A Gépházban válasszuk ki az “__Adatvédelem__” menüpontot. Tekerjünk lejjebb, ha szükséges.
 
-Milyen hosszú legyen a teszt, látható legyen-e a visszamaradt idő stb...
+![](/assets/img/install/wingephaz1.png)
 
-![Polling Options](/assets/img/install/winpollingoptions.png)
+![](/assets/img/install/wingephaz2.png)
 
-Record individual responses teszt eredménye személyesen is látható legyen
+* A bal oldali menüben megtalálható a “__Kamera__”. Válasszuk ki.
 
-![Record individual responses](/assets/img/install/winrecordindividualresp.png)
+Görgessünk “__A kamera elérésének engedélyezése az asztali alkalmazások számára__” pontig és kapcsoljuk be.
 
-## Teszt létrehozása
+![](/assets/img/install/wincam1.png)
 
-* New
-* Kérdés
-* Válaszok
+![](/assets/img/install/wincam2.png)
 
-![Create poll](/assets/img/install/wincreatepoll.png)
+* A bal oldali menüben válasszuk ki a “__Mikrofon__”-t. 
+Görgessünk “A __mikrofon elérésének engedélyezése az asztali alkalmazások számára__” pontig és kapcsoljuk be.
 
-## Open Poll -teszt elindítása
+![](/assets/img/install/winmic1.png)
 
-![Start poll](/assets/img/install/winstartpoll.png)
+![](/assets/img/install/winmic2.png)
 
-### Mi legyen látható a tesztből
-* Poll results - Teszt eredmény
-* Individual results - Személyes eredmény
-* Apply - Végeredmény
+### Képernyő beállítások ellenőrzése
 
-![Poll results](/assets/img/install/winpollresults.png)
+Jobb egérgomb megnyomása az asztalon.
 
-## Join a Meeting -csatlakozás egy megbeszéléshez
+__“Képernyő-beállítások”__
 
-Enter meeting information - az adott személy nevének a beírását követően lehet csatlakozni a megbeszéléshez
+![](/assets/img/install/windisplay1.png)
 
+* Ha több képernyőnk van, az “Azonosítás” gombra kattintva kis számok jelennek meg a képernyőn, ami segít a beazonosításban.
 
+![](/assets/img/install/windisplay2.png)
 
-![Start meeting](/assets/img/install/winstartameeting.png)
+* Felbontás ellenőrzése
 
-![Join a Meeting](/assets/img/install/winwebexmeetingsmenu.png)
+A “__Képernyő beállítások__”-nál lejjebb görgetve megtaláljuk a “__Kijelző felbontás__”-t.
 
+A legördülő menüben állítható.
+
+![](/assets/img/install/windisplay3.png)
+
+A __Windows gomb__ és a __P__ együttes megnyomásával a külső kijelző használatának módját állíthatjuk be.
+
+![](/assets/img/install/windisplay4.png)
+
+## Webex Meetings alkalmazás telepítése
+
+### Hardware / software követelmények
+
+[Rendszerkövetelmények](https://help.webex.com/en-us/nki3xrq/Webex-Meetings-Suite-System-Requirements)
+
+### A Webex alkalmazás letöltése
+
+[Letöltés](https://www.webex.com/downloads.html)
+
+### A telepítés lépései
+
+![](/assets/img/install/wintel1.png)
+
+Firefox letöltés
+
+![](/assets/img/install/firefoxdownload.png)
+
+Chrome letöltés
+
+![](/assets/img/install/chromedownload.png)
+
+![](/assets/img/install/wintel2.png)
+
+![](/assets/img/install/wintel3.png)
+
+![](/assets/img/install/wintel4.png)
+
+![](/assets/img/install/wintel5.png)
+
+![](/assets/img/install/wintel6.png)
+
+## Telepítés utáni első lépések
+
+* Belépés
+
+![](/assets/img/install/winstart1.png)
+
+Email cím megadása majd "__Next__" gomb.
+
+* Indítás
+
+![](/assets/img/install/winstart2.png)
+
+A "__Copy URL__" gombbal másolható a link és elküldhető.
+
+A "__Start a Meeting__" gombbal megnyitható az óra.
+
+* Kezdés
+
+A "__Start a Meeting__" gombbal elkezdhető az óra.
+
+![](/assets/img/install/winstart3.png)
+
+* Gyors menü a Webexen belül
+
+  * Mikrofon lenémítás vagy feloldás 
+  * Kamera bekapcsolás vagy kikapcsolás
+  * Képernyő vagy ablak megosztás
+  * Felvétel
+  * Résztvevők mentekintése
+  * Chat
+  * Egyéb lehetőségek
+  * Befejezés
+
+![](/assets/img/install/winquickmenu.png)
+
+* Mikrofon és kamera állapota
+
+Mikrofon lenémítva / Kamera kikapcsolva
+
+![](/assets/img/install/wincamstate1.png)
+
+Mikrofon bekapcsolva / Kamera bekapcsolva
+
+![](/assets/img/install/wincamstate2.png)
+
+Ha az eszköz szürke, nem használható 
+
+![](/assets/img/install/wincamstate3.png)
+
+* Hangszóró, Mikrofon és Kamera beállítása a Webexben
+
+![](/assets/img/install/winspeaker1.png)
+
+![](/assets/img/install/winspeaker2.png)
+
+* Megosztás
+
+![](/assets/img/install/winsharecontent1.png)
+
+## Webex Meetings használata böngészőben
+
+* A megkapott Webex link megnyitása után böngészőben csatlakozhatunk az online tanteremhez: __Join from your browser__
+
+![](/assets/img/install/browser1.png)
+
+* A böngésző kérheti a Mikrofon és a Kamera használatának engedélyezését.
+
+![](/assets/img/install/browser2.png)
+
+* Adatok megadása
+* Név beírása
+* E-mail cím beírása
+
+![](/assets/img/install/browser3.png)
+
+* Next
+* Belépés az online tanterembe.
+
+“_Join Meeting_” gomb megnyomása.
+
+![](/assets/img/install/browser4.png)
+
+* Gyors menü a Webexen belül
+
+![](/assets/img/install/browser5.png)
+
+  * Mikrofon lenémítás vagy feloldás 
+  * Kamera bekapcsolás vagy kikapcsolás
+  * Képernyő vagy ablak megosztás
+  * Felvétel
+  * Résztvevők mentekintése
+  * Chat
+  * Egyéb lehetőségek
+  * Befejezés
+
+![](/assets/img/install/winquickmenu.png)
+
+* Mikrofon és kamera állapota
+
+Mikrofon lenémítva / Kamera kikapcsolva
+
+![](/assets/img/install/wincamstate1.png)
+
+Mikrofon bekapcsolva / Kamera bekapcsolva
+
+![](/assets/img/install/wincamstate2.png)
+
+Ha az eszköz szürke, nem használható 
+
+![](/assets/img/install/wincamstate3.png)
