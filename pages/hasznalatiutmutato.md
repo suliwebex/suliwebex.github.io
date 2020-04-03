@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Telepítés Windowsra
-permalink: /install/windows
+title: Használati útmutató
+permalink: hasznalatiutmutato
 ---
 
 Windows 7 [![windows 7 pdf](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/win7.pdf)
