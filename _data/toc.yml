@@ -22,6 +22,9 @@
           url: "install/windows"
     - title: "Webex használati útmutató 📘"
       url: "hasznalatiutmutato"
+      children:
+        - title: Dolgozat/szavazás/kérdőiv szerkesztő használata
+          url: "dolgozat_szavazas_kerdoiv_szerkeszto"
     - title: "Videós útmutatók 📹"
       url: "underconstruction"
       # children:
