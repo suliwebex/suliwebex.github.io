@@ -1,0 +1,12 @@
+<section class="gyik">
+	<ul>
+		{% for item in site.data.gyik %}
+			<li><a href="#{{ item.question | slugify }}">{{ item.question }}</a></li>
+		{% endfor %}
+	</ul>
+
+    {% for item in site.data.gyik %}
+		<h2 id="{{ item.question | slugify}}">{{ item.question }}</h2>
+		{{ item.answer | markdownify }}
+	{% endfor %}
+</section>
