@@ -1,0 +1,29 @@
+- question: Kik a program támogatói?
+  answer: A kormány részéről az ITM -  Innovációs és Technológiai Minisztérium, a Cisco Magyarország és az IBM Magyarország jogi egységei (IBM Capital, IBM DSS, IBM HQ & LAB,  IBM ISSC) és a T-Systems.
+
+- question: Milyen időszakra van tervezve a project? 
+  answer: Jelenleg a project időtartama 3 hónapra van tervezve, de a helyzet függvényében elképzelhető hosszabbítás is.
+
+- question: Kik vannak benne a program támogatási körében?
+  answer: első körben a szakgimnáziumok, de ez a kör később bővülhet
+
+- question: Hogyan csatlakozhatnak új iskolák?
+  answer: a SuliWEBEX honlapon megadott kapcsolattartókon keresztül és ha van preferált mentor, akkor azt meg lehet már az elején kérni.
+
+- question: Milyen segítség érhető el a tanároknak?
+  answer: több szintű segítséget vehetnek igénybe a tanárok. Alapesetben az interneten – Youtube, Google – elérhető publikus WEBEX ismertetők. Második szinten a suliwebex.hu oldalon található ismertetők és videók. Harmadik szinten az IBM / Cisco önkéntes mentorai.
+
+- question: Hogyan lép kapcsolatba a tanár a mentorral?
+  answer: az iskolai kapcsolattartók és a mentorok megkapják egymás telefonszámát és e-mail címét. Mivel az iskolák pedagógusai saját WEBEX accountot kapnak, így annak használatával tudnak közös WEBEX meetinget is tartani.
+
+- question: Kell-e WEBEX meeting alkalmazást használnia a diákoknak ? 
+  answer: A diákok is használhatják a WEBEX meeting alkalmazást, ehhez nekik nem kell licence, de Ők licence hiányában nem tudnak konferenciát nyitni, csak résztvevőként csatlakozni.
+
+- question: Milyen megoldásban valósul meg a szolgáltatás?
+  answer: a biztosított megoldás felhő alapú.
+
+- question: Mik a WEBEX meeting alkalmazás SW /HW rendszer követelmények?
+  answer: a HW/SW követelményeket a lenti linken találod. Azt jó tudni, hogy itt nem a host gép határozza meg a hívás minőségét, hanem a mögötte biztosított felhő alapú infrastruktúra. [Link](https://help.webex.com/en-us/nki3xrq/Webex-Meetings-Suite-System-Requirements)
+
+- question: Mennyi az egyidőben maximálisan csatlakozó résztvevők száma?
+  answer: Alapból egyszerre, egy időben 200 résztvevő lehet csatlakozva.
