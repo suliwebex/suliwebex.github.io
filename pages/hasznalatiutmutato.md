@@ -8,7 +8,7 @@ permalink: hasznalatiutmutato
 
 [![Windows 10 pdf](/assets/img/button_windows10-utmutato-letoltese.png)](/assets/install/win10.pdf)
 
-## Webes felület
+# Webes felület
 
 Letöltés [Cisco Webex](https://www.cisco.com)
 
@@ -26,7 +26,7 @@ Bent vagyunk a webes felületen:
 
 ![After log in](/assets/img/install/webafterlogin.png)
 
-## Webex asztali applikáció letöltése
+# Webex asztali applikáció letöltése
 
 Download
 
@@ -41,7 +41,7 @@ Save file
 ![Install step 2](/assets/img/install/wininstall2.png)
 ![Install step 3](/assets/img/install/wininstall3.png)
 
-## Asztali Webex applikáció elindítása
+# Asztali Webex applikáció elindítása
 
 __Start menü:__ webex
 
@@ -65,7 +65,7 @@ __Mi látható:__
 ![Webex preferences personal room](/assets/img/install/winprefmypersonalroom.png)
 
 
-## Meeting elindítása
+# Meeting elindítása
 
 Start a Meeting
 
@@ -176,7 +176,7 @@ Record individual responses teszt eredménye személyesen is látható legyen
 
 ![Record individual responses](/assets/img/install/winrecordindividualresp.png)
 
-## Teszt létrehozása
+# Teszt létrehozása
 
 * New
 * Kérdés
@@ -184,18 +184,18 @@ Record individual responses teszt eredménye személyesen is látható legyen
 
 ![Create poll](/assets/img/install/wincreatepoll.png)
 
-## Open Poll -teszt elindítása
+# Open Poll -teszt elindítása
 
 ![Start poll](/assets/img/install/winstartpoll.png)
 
-### Mi legyen látható a tesztből
+## Mi legyen látható a tesztből
 * Poll results - Teszt eredmény
 * Individual results - Személyes eredmény
 * Apply - Végeredmény
 
 ![Poll results](/assets/img/install/winpollresults.png)
 
-## Join a Meeting -csatlakozás egy megbeszéléshez
+# Join a Meeting -csatlakozás egy megbeszéléshez
 
 Enter meeting information - az adott személy nevének a beírását követően lehet csatlakozni a megbeszéléshez
 
@@ -204,4 +204,3 @@ Enter meeting information - az adott személy nevének a beírását követően 
 ![Start meeting](/assets/img/install/winstartameeting.png)
 
 ![Join a Meeting](/assets/img/install/winwebexmeetingsmenu.png)
-
