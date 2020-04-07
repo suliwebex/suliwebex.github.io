@@ -2,6 +2,7 @@
 tags: 
     - contacts
     - kapcsolat
+title: Kapcsolat
 permalink: /kapcsolat
 ---
 
