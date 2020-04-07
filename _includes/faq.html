@@ -6,7 +6,7 @@
 	</ul>
 
     {% for item in site.data.gyik %}
-		<h2 id="{{ item.question | slugify}}">{{ item.question }}</h2>
+		<strong id="{{ item.question | slugify}}">{{ item.question }}</strong>
 		{{ item.answer | markdownify }}
 	{% endfor %}
 </section>
