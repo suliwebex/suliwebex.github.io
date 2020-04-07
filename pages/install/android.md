@@ -6,12 +6,12 @@ permalink: /install/android
 
 [![alt text](/assets/img/button_android-utmutato-letoltese.png)](/assets/install/android.pdf)
 
-### Telepítés előtti fontos tudnivalók
+# Telepítés előtti fontos tudnivalók
 
-#### Rendszerkövetelmény
+## Rendszerkövetelmény
 * Android verziószám 5.0 vagy újabb (Készüléke verziószámát a “Kérdések és válaszok” pontban leírt módon ellenőrizheti.)
 
-#### Szükséges eszköz kapcsolatok
+## Szükséges eszköz kapcsolatok
 
 Az alkalmazást az alábbi hálózati kapcsolatokon keresztül használhatja:
 
@@ -20,10 +20,11 @@ Az alkalmazást az alábbi hálózati kapcsolatokon keresztül használhatja:
 
 Figyelem: Video alapú konferencia esetén a forgalmazott adatmennyiség jelentősen megnő!
 
-### A Webex Meeting alkalmazás telepítése
+# A Webex Meeting alkalmazás telepítése
 
 1. Készülékén indítsa el a Play Áruház alkalmazást
-     ![Google Play](/assets/img/install/googleplay.png)
+    
+    ![Google Play](/assets/img/install/googleplay.png)
 
 2. A kereső mezőbe írja be a “webex” szót, majd az eredmény listából válassza ki a Cisco Webex Meetings alkalmazást:
 
@@ -40,7 +41,7 @@ Figyelem: Video alapú konferencia esetén a forgalmazott adatmennyiség jelent�
 
 6. Amennyiben kilépett a Play Áruházból, akkor a Cisco Webex Meetings az android eszköz valamely ablakán elhelyezett ![Google Play](/assets/img/install/webexicon.png) ikon megnyomásával indítható.
 
-### Első lépések
+## Első lépések
 
 Fontos! Az alábbi lépéseket csak egyszer, az első alkalmazás indítás után kell megtenni:
 
@@ -64,17 +65,17 @@ Fontos! Az alábbi lépéseket csak egyszer, az első alkalmazás indítás utá
     ![Google Play](/assets/img/install/playrightscontacts.jpg)
     ![Google Play](/assets/img/install/playrightsgps.jpg)
 
-### Alkalmazás opcionális beállításai
+# Alkalmazás opcionális beállításai
 
 Telepítés után az alkalmazás azonnal használható az alap beállításokkal, azonban az alábbi opcionális beállításokat végezheti el:
 
-#### Beállítások menü elérése
+## Beállítások menü elérése
 
 A beállítások menü (Settings), az alkalmazás kezdő képernyőjén, a jobb felső sarokban található három pontra nyomva érhető el:
 
     ![Google Play](/assets/img/install/androidaccesssettings.jpg)
 
-#### Adatforgalom csökkentése
+## Adatforgalom csökkentése
 
 Javasolt használat: Amennyiben korlátozott adatforgalmi kerettel rendelkezik, érdemes az alábbi funkciót kikapcsolni.
 
@@ -86,7 +87,7 @@ Javasolt használat: Amennyiben korlátozott adatforgalmi kerettel rendelkezik, 
 
     ![Google Play](/assets/img/install/androidvideohighdefinition.jpg)
 
-#### Mobilhálózati kapcsolat tiltása
+## Mobilhálózati kapcsolat tiltása
 
 Javasolt használat: Annak érdekében, hogy az alkalmazás Wi-Fi kapcsolat hiányában automatikusan ne tudja a mobiladatot használni, az alábbi funkciót kapcsolja ki:
 
@@ -98,9 +99,9 @@ Javasolt használat: Annak érdekében, hogy az alkalmazás Wi-Fi kapcsolat hiá
 
     ![Google Play](/assets/img/install/androidusemobiledata.jpg)
 
-### Kérdések és válaszok
+# Kérdések és válaszok
 
-#### Hogyan tudom az Android-verziószámát ellenőrizni?
+## Hogyan tudom az Android-verziószámát ellenőrizni?
 
 1. Nyissa meg a telefon Beállítások alkalmazását.
 2. Koppintson alul a Rendszer Majd Speciális Majd Rendszerfrissítés lehetőségre.
