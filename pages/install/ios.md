@@ -4,7 +4,7 @@ title: Telepítés iPhone-ra
 permalink: /install/ios
 ---
 
-[![alt text](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/android.pdf)
+[![alt text](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/ios.pdf)
 
 ## Telepítés
 
