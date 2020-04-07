@@ -4,7 +4,7 @@ title: Telepítés MacOS-re
 permalink: /install/macos
 ---
 
-[![alt text](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/macos.pdf)
+[![alt text](/assets/img/button_macos-utmutato-letoltese.png)](/assets/install/macos.pdf)
 
 #### A Cisco Webex alkalmazás telepítése
 
