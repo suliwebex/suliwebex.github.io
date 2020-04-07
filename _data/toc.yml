@@ -1,7 +1,7 @@
 - title: ""
   url: /
   links:
-    - title: "Program leírása 📗"
+    - title: "📗 Program leírása"
       url: "index"
       children:
         - title: "Virtuális osztályterem"
@@ -10,7 +10,7 @@
           url: "tamogatas"
         - title: Adatvédelem és biztonság
           url: "adatvedelem"
-    - title: "Telepítés 🛠️"
+    - title: "🛠️ Telepítés"
       children:
         - title: Android
           url: "install/android"
@@ -20,12 +20,12 @@
           url: "install/macos"
         - title: Windows
           url: "install/windows"
-    - title: "Webex használati útmutató 📘"
+    - title: "📘 Webex használati útmutató"
       url: "hasznalatiutmutato"
       children:
         - title: Dolgozat/szavazás/kérdőiv szerkesztő használata
           url: "dolgozat_szavazas_kerdoiv_szerkeszto"
-    - title: "Videós útmutatók 📹"
+    - title: "📹 Videós útmutatók"
       url: "videosutmutatok"
       # children:
       #   - title: Tanár
@@ -34,11 +34,11 @@
       #     url: "underconstruction"
     # - title: "Webináriumok"
     #   url: "underconstruction"
-    - title: "Kapcsolat 📧"
+    - title: "📧 Kapcsolat"
       url: "kapcsolat"
-    - title: "Gyakran ismételt kérdések ❓"
+    - title: "❓ Gyakran ismételt kérdések"
       url: "gyik"
-    - title: "Hasznos linkek 🔗"
+    - title: "🔗 Hasznos linkek"
       url: "linkek"
     # - title: "Fórum"
     #   url: "underconstruction"
