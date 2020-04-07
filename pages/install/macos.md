@@ -6,26 +6,26 @@ permalink: /install/macos
 
 [![alt text](/assets/img/button_macos-utmutato-letoltese.png)](/assets/install/macos.pdf)
 
-#### A Cisco Webex alkalmazás telepítése
+# A Cisco Webex alkalmazás telepítése
 
 A Cisco Webex alkalmazást kétféleképpen is lehet használni:
 
 * Online - Böngészőn keresztül
 * Offline – Letöltött alkalmazásból
 
-##### Online
+## Online
 
 Online a következő linken tudjuk elérni a Cisco Webex-et: [Webex](https://globalpage-prod.webex.com/signin?surl=https%3A%2F%2Fsignin.webex.com%2Fcollabs%2Fauth%3F){:target="_blank"}
 
 Ha van már meglévő Webex-es profilunk akkor jelentkezzünk be, ha nincs akkor
 csináljunk.
 
-#### Offline
+## Offline
 
 Offline pedig úgy, hogy letöltjük az alkalmazás applikációját a következő oldalról: [Letöltés](https://www.webex.com/downloads.html/){:target="_blank"}
 Vagy akár az App Store-ban is megtalálhatjuk és leszedi az alapértelmezett applikációt amit telepít is.
 
-##### Offline telepítési példa
+### Offline telepítési példa
 
 Miután megnyitjuk a fent említett oldalt a letöltés vagy Download for macOS gombra kattintva felugrik egy ablak ahol elég csak OK-ot nyomni.
 
@@ -41,7 +41,7 @@ Maga a telepítés lényegében három kattintással meg lehet csinálni. __„t
 
 __Ahhoz, hogy minél zökkenőmentesebben tudjuk használni a Cisco Webex videókonferenciai eszközt egy-két kritériumnak meg kell felelnünk.__
 
-#### A Hálózati kapcsolat ellenőrzése:
+## A Hálózati kapcsolat ellenőrzése
 
 * Kábeles:
 Ez problémás lehet Macbook Air-ek és frissebb Pro-k esetében hisz ezeknek nincs közvetlen hálózati portjuk. Kell hozzájuk átalakító.
@@ -52,7 +52,7 @@ Vezeték nélküli csatlakozás esetén az általunk ismert és használt Wi-Fi 
 
 ![step 4](/assets/img/install/macosinstall4.png)
 
-#### A hálózati sebesség ellenőrzése
+## A hálózati sebesség ellenőrzése
 
 * Az alap minőséghez a minimum sávszélesség:
   * Letöltés: 0.5 Mbps 
@@ -66,19 +66,19 @@ Vezeték nélküli csatlakozás esetén az általunk ismert és használt Wi-Fi 
 * A következő oldalon ajánlott a tesztelése: [speedtest](https://www.speedtest.net){:target="_blank"}
 *A sebesség lehet eltérő internetszolgáltatók és azoknak a csomagjai különbsége miatt is.
 
-#### Cisco Webex hálózati tesztelése
+## Cisco Webex hálózati tesztelése
 
 * Ehhez a [mediatest](https://mediatest.webex.com){:target="_blank"} oldalt kell megnyitnunk.
 * Ahhoz, hogy sikeresen tesztelni tudja az oldal érdemes Google Chrome 39-es vagy frissebb vagy Mozilla Firefox 28-as vagy frissebb verziójú böngészőt használni.
 
 ![step 5](/assets/img/install/macosinstall5.png)
 
-#### Webex infrastruktúra elérhetőségi riportja:
+## Webex infrastruktúra elérhetőségi riportja
 
 * Az elérési útvonala a következő: [Webex status](http://status.webex.com){:target="_blank"}
 * Itt tudjuk ellenőrizni a hibaelhárítás alatt lévő hibákat és a szerveroldali működését a Cisco Webex-nek.
 
-#### A hangszóró, fejhallgató és mikrofon beállítása
+## A hangszóró, fejhallgató és mikrofon beállítása
 
 * Ezt a Hang (Sound) opció alatt tudjuk megtenni.
 * Legegyszerűbben a Command + Space gombok használatával előhozzuk a Spotlight keresőt és beírjuk, hogy Hang vagy Sound rendszernyelvtől
@@ -105,7 +105,7 @@ függően.
 
 * Itt kitudjuk választani a Beviteli eszközt is, ha külön csatlakoztattunk esetleg mikrofont a Macbook-hoz. (Jack Headset esetén automatikusan átáll arra)
 
-#### Képernyő beállítások ellenőrzése
+## Képernyő beállítások ellenőrzése
 
 * Ezt a Kijelzők (Displays) opció alatt tudjuk megtenni 
 * Command + Space – Spotlight keresőbe beírva tudunk a leggyorsabbaneljutni ehhez az opcióhoz.
@@ -114,7 +114,7 @@ függően.
 
 * Ha több kijelzőnk van a gépre csatlakoztatva akkor kitudjuk választani őket itt és egyesével beállítani, hogy melyiknek milyen felbontása legyen plusz, hogy tükrözve akarjuk a képet használni vagy külön kijelzőként.
 
-#### Kamera beállításainak ellenőrzése:
+## Kamera beállításainak ellenőrzése
 
 * A Security & Privacy opció alatt találjátok meg a Kamerát és hogy minek van engedélye használni azt. Itt érdemes hozzáadni a Cisco Webex-et.
 Majd utána működni fog a kamera az alkalmazáson belül.
