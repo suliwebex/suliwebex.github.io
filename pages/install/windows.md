@@ -8,9 +8,9 @@ permalink: /install/windows
 
 [![Windows 10 pdf](/assets/img/button_windows10-utmutato-letoltese.png)](/assets/install/win10.pdf)
 
-## Ellenőrzések a Webex Meetings használata előtt
+# Ellenőrzések a Webex Meetings használata előtt
         
-###  Hálózati kapcsolat ellenőrzése
+##  Hálózati kapcsolat ellenőrzése
 
 * Ha a hálózat ikonja nem látszik a tálcán, a rejtett ikonok megjelenítése gombbal előhozhatjuk.
 
@@ -41,9 +41,11 @@ Wi-Fi bekapcsolása:
 
 Bekapcsolás után láthatóvá válnak az elérhető hálózatok.
 
-### Hálózati sebesség ellenőrzése: [speedtest](https://www.speedtest.net/)
+## Hálózati sebesség ellenőrzése
 
-### Böngésző (Firefox, Chrome) verziók ellenőrzése
+[speedtest](https://www.speedtest.net/)
+
+## Böngésző (Firefox, Chrome) verziók ellenőrzése
 
 * Firefox
 
@@ -63,19 +65,19 @@ Bekapcsolás után láthatóvá válnak az elérhető hálózatok.
 
 ![](/assets/img/install/winchrome3.png)
 
-### Ha a hangszóró ikonja nem látszik a tálcán, a rejtett ikonok megjelenítése gombbal előhozhatjuk.
+## Ha a hangszóró ikonja nem látszik a tálcán, a rejtett ikonok megjelenítése gombbal előhozhatjuk
 
 ![](/assets/img/install/winspeakericon.png)
 
 A bal egérgombot nyomva tartva azt a tálcára húzhatjuk.
 
-### Ha kis “x”-et látunk a hangszóró ikonja mellett, akkor az lenémított állapotban van.
+## Ha kis “x”-et látunk a hangszóró ikonja mellett, akkor az lenémított állapotban van
 
 ![](/assets/img/install/winspeakeroff.png)
 
-Bal gombbal az ikonra kattintás után, a megjelenő csúszkával beállíthatjuk a hangerőt, valamint némíthatunk és fel is oldhatjuk azt. 
+Bal gombbal az ikonra kattintás után, a megjelenő csúszkával beállíthatjuk a hangerőt, valamint némíthatunk és fel is oldhatjuk azt.
 
-### Bluetooth fej/fülhallgató ellenőrzése, csatlakoztatása
+## Bluetooth fej/fülhallgató ellenőrzése, csatlakoztatása
 
 Mielőtt a használatot elkezdjük, ellenőrizzük, hogy a fej/fülhallgatót akkumulátora fel van-e töltve.
 
@@ -111,7 +113,7 @@ Majd a saját fej/fülhallgatónkat.
 
 Az “__Eszköz használatra kész__“ felirat jelzi, ha sikeres volt a csatlakoztatás.
 
-### Jobb egérgombbal a hangszóró ikonra kattintva elérhetővé válik a “Hangbeállítások megnyitása” gomb.
+## Jobb egérgombbal a hangszóró ikonra kattintva elérhetővé válik a “Hangbeállítások megnyitása” gomb.
 
 ![](/assets/img/install/winhangbeallitasok1.png)
 
@@ -143,7 +145,7 @@ Ha ezen változtatni akarunk, jelöljük ki a másik eszközt és kattintsunk az
 
 ![](/assets/img/install/winhangbeallitasok6.png)
 
-### Kamera és mikrofon használat engedélyezése
+## Kamera és mikrofon használat engedélyezése
 
 __Start menü__
 
@@ -170,7 +172,7 @@ Görgessünk “A __mikrofon elérésének engedélyezése az asztali alkalmazá
 
 ![](/assets/img/install/winmic2.png)
 
-### Képernyő beállítások ellenőrzése
+## Képernyő beállítások ellenőrzése
 
 Jobb egérgomb megnyomása az asztalon.
 
@@ -194,17 +196,17 @@ A __Windows gomb__ és a __P__ együttes megnyomásával a külső kijelző hasz
 
 ![](/assets/img/install/windisplay4.png)
 
-## Webex Meetings alkalmazás telepítése
+# Webex Meetings alkalmazás telepítése
 
-### Hardware / software követelmények
+## Hardware / software követelmények
 
 [Rendszerkövetelmények](https://help.webex.com/en-us/nki3xrq/Webex-Meetings-Suite-System-Requirements)
 
-### A Webex alkalmazás letöltése
+## A Webex alkalmazás letöltése
 
 [Letöltés](https://www.webex.com/downloads.html)
 
-### A telepítés lépései
+## A telepítés lépései
 
 ![](/assets/img/install/wintel1.png)
 
@@ -226,7 +228,7 @@ Chrome letöltés
 
 <!-- ![](/assets/img/install/wintel6.png) -->
 
-## Telepítés utáni első lépések
+# Telepítés utáni első lépések
 
 * Belépés
 
@@ -285,7 +287,7 @@ Ha az eszköz szürke, nem használható
 
 ![](/assets/img/install/winsharecontent1.png)
 
-## Webex Meetings használata böngészőben
+# Webex Meetings használata böngészőben
 
 * A megkapott Webex link megnyitása után böngészőben csatlakozhatunk az online tanteremhez: __Join from your browser__
 
