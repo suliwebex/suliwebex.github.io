@@ -4,24 +4,24 @@ title: Hasznos linkek
 permalink: /linkek/
 ---
 
-[Webex hivatalos teszt meeting](https://www.webex.com/test-meeting.html/#)
+<p><a href="https://www.webex.com/test-meeting.html/#" target="_main">Webex hivatalos teszt meeting</a></p>
 
-[Hálózati sebesség ellenőrzése](https://www.speedtest.net/)
+<p><a href="https://www.speedtest.net/"  target="_main">Hálózati sebesség ellenőrzése</a></p>
 
-[Cisco Webex Network Test](https://mediatest.webex.com/#/main)
+<p><a href="https://mediatest.webex.com/#/main" target="_main">Cisco Webex Network Test</a></p>
 
-[WEBEX infrastruktúra elérhetőségi riportja (szerver elérhetőség)]( https://status.webex.com/)
+<p><a href="https://status.webex.com/" target="_main">WEBEX infrastruktúra elérhetőségi riportja (szerver elérhetőség)</a></p>
 
-[WEBEX meeting hardware / software követelmények]( https://help.webex.com/en-us/nki3xrq/Webex-Meetings-Suite-System-Requirements)
+<p><a href="https://help.webex.com/en-us/nki3xrq/Webex-Meetings-Suite-System-Requirements" target="_main">WEBEX meeting hardware / software követelmények</a></p>
 
-[Tanár WEBEX regisztráció](https://cart.webex.com/sign-up-webex)
+<p><a href="https://cart.webex.com/sign-up-webex" target="_main">Tanár WEBEX regisztráció</a></p>
 
-[Diák Cisco WEBEX Meeting letöltés](https://www.webex.com/downloads.html/)
+<p><a href="https://www.webex.com/downloads.html/" target="_main">Diák Cisco WEBEX Meeting letöltés</a></p>
 
-[Minden a Webex Meeting-ről](https://help.webex.com/en-us/w11l5i/Cisco-Webex-Web-App-Updates-Overview#concept_6C8ED62012334D2D91D139BAD77C833F)
+<p><a href="https://help.webex.com/en-us/w11l5i/Cisco-Webex-Web-App-Updates-Overview#concept_6C8ED62012334D2D91D139BAD77C833F" target="_main">Minden a Webex Meeting-ről</a></p>
 
-[Az IBM COVID-19-el kapcsolatos kezdeményezései és hírei](https://www.ibm.com/thought-leadership/covid19/?lnk=ushpv18l1)
+<p><a href="https://www.ibm.com/thought-leadership/covid19/?lnk=ushpv18l1" target="_main">Az IBM COVID-19-el kapcsolatos kezdeményezései és hírei</a></p>
 
-[Hogyan kezelhetik a vezetők a COVID-19 okozta káoszt.](https://www.ibm.com/thought-leadership/institute-business-value)
+<p><a href="https://www.ibm.com/thought-leadership/institute-business-value"  target="_main">Hogyan kezelhetik a vezetők a COVID-19 okozta káoszt</a></p>
 
-[Hogyan igényelhet MS Office 365-öt tanárés diák](https://o365.oh.gov.hu/)
+<p><a href="https://o365.oh.gov.hu/" target="_main">Hogyan igényelhet MS Office 365-öt tanár és diák</a></p>
