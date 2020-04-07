@@ -4,9 +4,9 @@ title: Telepítés Windowsra
 permalink: /install/windows
 ---
 
-Windows 7 [![windows 7 pdf](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/win7.pdf)
+[![windows 7 pdf](/assets/img/button_windows7-utmutato-letoltese.png)](/assets/install/win7.pdf)
 
-Windows 10 [![windows 10 pdf](/assets/img/16px-PDF_file_icon.svg.png)](/assets/install/win10.pdf)
+[![Windows 10 pdf](/assets/img/button_windows10-utmutato-letoltese.png)](/assets/install/win10.pdf)
 
 ## Ellenőrzések a Webex Meetings használata előtt
         
@@ -224,7 +224,7 @@ Chrome letöltés
 
 ![](/assets/img/install/wintel5.png)
 
-![](/assets/img/install/wintel6.png)
+<!-- ![](/assets/img/install/wintel6.png) -->
 
 ## Telepítés utáni első lépések
 
