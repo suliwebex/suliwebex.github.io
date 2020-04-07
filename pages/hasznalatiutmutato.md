@@ -10,7 +10,7 @@ Windows 10 [![windows 10 pdf](/assets/img/16px-PDF_file_icon.svg.png)](/assets/i
 
 ## Webes felület
 
-Letöltés [Cisco Webex](http://www.cisco.com)
+Letöltés [Cisco Webex](https://www.cisco.com)
 
 Regisztráció e-mail alapján
 
