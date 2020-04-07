@@ -4,7 +4,7 @@ title: Webex dolgozat/szavazás kérdőív szerkesztő (Webex Poll Questionnaire
 permalink: /dolgozat_szavazas_kerdoiv_szerkeszto
 ---
 
-## Webex dolgozat/szavazás kérdőív szerkesztő funkciója
+# Webex dolgozat/szavazás kérdőív szerkesztő funkciója
 
 A Webex Meetingek (akár Meeting, akár Training, akár Event) egyik visszajelzési lehetősége a szavazások (Poll) indítása. A szavazások elkészítésére lehetőség van a meeting közben, de a Webex dolgozat/szavazás kérdőív szerkesztő (Webex Poll Questionnaire Editor) használtával előre elkészített fájlokból is van lehetőség importálni a kérdéseket és a válaszokat.
 
@@ -18,7 +18,7 @@ Ezen dokumentáció bemutatja a Webex dolgozat/szavazás kérdőív szerkesztő 
 
 A Webex Poll Questionnaire Editor Windows operációs rendszerekhez érhető el.
 
-## Webex dolgozat/szavazás kérdőív szerkesztő letöltése
+# Webex dolgozat/szavazás kérdőív szerkesztő letöltése
 
 El kell látogatni a [Webex honlap](https://www.webex.com)-ra. A felhasználói adatokkal történő bejelentkezés után a bal oldali menüsorban ki kell választani a Webex Events menüpontot:
 
@@ -30,7 +30,7 @@ A megjelenő Webex Events oldalon a bal oldali menüsorban ki kell választani a
 
 [Közvetlen link](https://akamaicdn.webex.com/client/WBXclient-40.2.10-14/polleditor.msi) ami jelen dokumentáció elkészítésekor működik (verzióváltás miatt elképzelhető hogy későbbiekben nem lesz elérhető).
 
-## Webex dolgozat/szavazás kérdőív szerkesztő telepítése
+# Webex dolgozat/szavazás kérdőív szerkesztő telepítése
 
 A telepítést a __polleditor.msi__ filera történő dupla kattintással lehet megkezdeni.
 
@@ -58,7 +58,7 @@ Az __“Install”__ gombbal indítható a telepítés. Az esetlegesen megjelen�
 
 A telepitést a __“Finish”__ gombbal lehet befejezni.
 
-## Webex dolgozat/szavazás kérdőív szerkesztő használata
+# Webex dolgozat/szavazás kérdőív szerkesztő használata
 
 A Webex Poll Questionnaire Editor-t a Start Menüben lehet elindítani.
 
@@ -116,7 +116,7 @@ A _Mentés_ gombbal ![Usage](/assets/img/pollquestionnaire/save_small.png) lehet
 
 A _Clear All_ gomb töröl mindent a listából (kérdések és válaszok). Nem kérdez vissza, ezért óvatosan használandó.
 
-### Menüpontok:
+## Menüpontok:
 
 File – Open – megnyitja a korábban elmentett .ATP filet.
 
@@ -128,7 +128,7 @@ File – Exit – kilép az alkalmazásból
 
 Help – About Poll Editor – Az alkalmazás adatainak megtekintése.
 
-## Webex dolgozat/szavazás kérdőív szerkesztő eltávolítása
+# Webex dolgozat/szavazás kérdőív szerkesztő eltávolítása
 
 Az alkalmazás eltávolítását a _polleditor.msi_ filera történő dupla kattintással lehet megkezdeni.
 
