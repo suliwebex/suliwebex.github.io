@@ -14,6 +14,8 @@
       children:
         - title: Android
           url: "install/android"
+        - title: iOS
+          url: "install/ios"
         - title: Linux
           url: "install/linux"
         - title: MacOS
