@@ -6,7 +6,7 @@ permalink: /install/ios
 
 [![alt text](/assets/img/button_ios-utmutato-letoltese.png)](/assets/install/ios.pdf)
 
-## Telepítés
+# Telepítés
 
 Nyissuk meg az App Store-t.
 
@@ -30,7 +30,7 @@ Beállításainktól függően az App Store kérheti az Apple ID-nk és a hozzá
 
 ![ios](/assets/img/install/ios/image5.jpeg)
 
-## Első lépések
+# Első lépések
 
 A telepítés befejezése után menjünk rá a _“Megnyitás”_ gombra az App Store-ban, vagy nyissuk meg az alkalmazást az ikonja segítségével.
 
@@ -50,7 +50,7 @@ Az applikáció főképernyőjén három opciónk van
 
 ![ios](/assets/img/install/ios/image9.jpeg)
 
-### Beállítások
+## Beállítások
 
 ![ios](/assets/img/install/ios/image10.jpeg)
 
@@ -62,7 +62,7 @@ Beállítható, hogy az alkalmazás hogyan teremtse meg az audio kapcsolatot.
 
 ![ios](/assets/img/install/ios/image12.jpeg)
 
-### Csatlakozás online tanteremhez (akár bejelentkezés nélkül is)
+## Csatlakozás online tanteremhez (akár bejelentkezés nélkül is)
 
 Itt adható meg az online tanterem link-je, vagy a száma.
 
@@ -72,7 +72,7 @@ A “Join” gombbal léphetünk be.
 
 ![ios](/assets/img/install/ios/image13.jpeg)
 
-### Bejelentkezés
+## Bejelentkezés
 
 E-mail cím megadása.
 
@@ -82,9 +82,9 @@ _“Next”_ gomb.
 
 ![ios](/assets/img/install/ios/image15.jpeg)
 
-## Webex alkalmazás használata
+# Webex alkalmazás használata
 
-### Kezdés
+## Kezdés
 
 Online óra indítása
 
@@ -98,11 +98,11 @@ Start gombbal beléphetünk az online tanterembe
 
 ![ios](/assets/img/install/ios/image17.jpeg)
 
-### Miután beléptünk, a főképernyőn látható a résztvevőkkel megosztandó link és a meeting száma is.
+## Miután beléptünk, a főképernyőn látható a résztvevőkkel megosztandó link és a meeting száma is.
 
 Mindkettő használható a csatlakozáshoz.
 
-### Gyors menü az allalmazáson belül
+## Gyors menü az allalmazáson belül
 
 * Mikrofon lenémítás vagy feloldás
 * Kamera bekapcsolás vagy kikapcsolás
@@ -111,7 +111,7 @@ Mindkettő használható a csatlakozáshoz.
 
 ![ios](/assets/img/install/ios/image18.png)
 
-### Mikrofon és kamera állapota
+## Mikrofon és kamera állapota
 
 * Mikrofon lenémítva / Kamera kikapcsolva
 
@@ -121,7 +121,7 @@ Mindkettő használható a csatlakozáshoz.
 
 ![ios](/assets/img/install/ios/image20.png)
 
-### Egyéb lehetőségek
+## Egyéb lehetőségek
 
 * Online tanterem bezárása (Nem csatlakozhat újabb résztvevő) - Lock Room
 * Felvétel - Record
@@ -131,7 +131,7 @@ Mindkettő használható a csatlakozáshoz.
 
 ![ios](/assets/img/install/ios/image21.jpeg)
 
-## A telefonkészülék beállításai
+# A telefonkészülék beállításai
 
 A telefonkészülék beállításaiban a “Webex Meet”-et kiválasztva ellenőrizhetjük, hogy az applikáció hozzáfér-e a mobiladat forgalomhoz, a kamerához, a mikrofonhoz, valamint az értesítéseket is ki-bekapcsolhatjuk.
 
