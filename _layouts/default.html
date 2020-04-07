@@ -24,9 +24,11 @@
             <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
 	      <ol class="breadcrumb spb-1">
                 <li class="breadcrumb-item active" aria-current="page">
-	          <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-                </li>
+	          <!-- <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> -->
+            {{ page.title }}
+          </li>
 	      </ol>
+        <hr>
            </nav>
            <div class="td-content">
 	      {{ content }}	
