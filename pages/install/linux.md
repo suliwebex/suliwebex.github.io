@@ -9,9 +9,9 @@ permalink: /install/linux
 * hálózati kapcsolat ellenőrzése
   * kábeles hálózat esetében
   * WiFi használat esetében
-* hálózati sebesség ellenőrzése - [speedtest](https://www.speedtest.net/)
-* csak Chrome 39+, FireFox 28+ version fut - [mediatest](https://mediatest.webex.com)
-* a WEBEX infrastruktúra elérhetőségi riportja - [webex Status](https://status.webex.com)
+* hálózati sebesség ellenőrzése - [speedtest](https://www.speedtest.net/){:target="_blank"}
+* csak Chrome 39+, FireFox 28+ version fut - [mediatest](https://mediatest.webex.com){:target="_blank"}
+* a WEBEX infrastruktúra elérhetőségi riportja - [webex Status](https://status.webex.com){:target="_blank"}
 * mikrofon beállítás ellenőrzése
 * hangszóró beállítás ellenőrzése - külső / belső hangszóró 
 * fejhallgató használat - vezetékes / bluetooth
