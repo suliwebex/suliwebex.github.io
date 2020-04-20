@@ -6,8 +6,6 @@
       children:
         - title: "Virtuális osztályterem"
           url: "virtualisosztalyterem"
-        - title: Támogatás
-          url: "tamogatas"
         - title: Adatvédelem és biztonság
           url: "adatvedelem"
     - title: "🛠️ Telepítés"
