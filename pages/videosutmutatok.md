@@ -27,4 +27,12 @@ permalink: /videosutmutatok/
         <div class="video-title"><h5>Hogyan csináljam? - 4. A virtuális osztályterem bezárása az új belépők előtt</h5></div>
         <div class='embed-container'><iframe src='https://www.youtube.com/embed/JqzH0h3_y0o' frameborder='0' allowfullscreen></iframe></div>
     </div>
+    <div class="col-md-6">
+        <div class="video-title"><h5>Hogyan csináljam? - 5. Diák csatlakozása a virtuális osztályteremhez</h5></div>
+        <div class='embed-container'><iframe src='https://www.youtube.com/embed/Bqi0MPcR_iI' frameborder='0' allowfullscreen></iframe></div>
+    </div>
+    <div class="col-md-6">
+        <div class="video-title"><h5>Hogyan csináljam? - 6. Az óra rögzítése és megosztása</h5></div>
+        <div class='embed-container'><iframe src='https://www.youtube.com/embed/2QkZrvZJnTw' frameborder='0' allowfullscreen></iframe></div>
+    </div>
 </div>
