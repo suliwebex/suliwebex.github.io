@@ -39,7 +39,7 @@ A HTTP Alapítvány a digitális oktatás elkötelezett támogatójaként már a
    </div>
   <div class="col-md-6" markdown="1">
 
-![HTTP Alapítvány](/assets/img/t-systems_logo.png)
+![T-Systems](/assets/img/t-systems_logo.png)
 <br>
 <br>
 A T-Systems szakmai kompetenciái mentén segíti a gazdaság és a társadalom szereplőit ebben az új, járvány által kikényszerített változó helyzetben.
