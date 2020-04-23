@@ -43,7 +43,7 @@ A HTTP Alapítvány a digitális oktatás elkötelezett támogatójaként már a
 <br>
 <br>
 A T-Systems szakmai kompetenciái mentén segíti a gazdaság és a társadalom szereplőit ebben az új, járvány által kikényszerített változó helyzetben.
-A Suliwebex programban kollégáink napi 6 órában hotline technikai segítséget és támogatást nyújtanak a tanárok részére. Bízunk benne, hogy az összefogás és a szakmai tudás koncentrálásával hatékonyan tudjuk szolgálni a digitális oktatás fejlesztését.
+A Suliwebex programban kollégáink napi 8 órában hotline technikai segítséget és támogatást nyújtanak a tanárok részére. Bízunk benne, hogy az összefogás és a szakmai tudás koncentrálásával hatékonyan tudjuk szolgálni a digitális oktatás fejlesztését.
   </div>
 </div>
 
