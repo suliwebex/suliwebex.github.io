@@ -8,7 +8,13 @@
 			<!-- <li class="nav-item mr-4 mb-2 mb-lg-0">
                             <a class="nav-link" href="{{ site.repo }}" target="_blank"><span>GitHub</span></a>
       </li> -->
-      {% endif %}{% for link in site.data.navigation %}
+      {% endif %}
+      <li class="nav-item mr-4 mb-2 mb-lg-0">
+        <a class="nav-link" href="kapcsolat">
+        <span ><mark>A programba belépni a 'Kapcsolat' menüpont alatt található kollégák valamelyikén keresztül lehetséges</mark></span>
+        </a>
+      </li>
+      {% for link in site.data.navigation %}
 			<li class="nav-item mr-4 mb-2 mb-lg-0">
                             <a class="nav-link" href="{% if link.url %}{{ site.baseurl }}/{{ link.url }}{% else %}{{ link.external_url }}{% endif %}" {% if link.external_url %}target="_blank"{% endif %}>
                               <span>{{ link.title }}</span>
